@@ -1,0 +1,5 @@
+REST API:
+  Notes:
+    1) Server Client Architecture
+    2) Always respect all http methods => Get, Post, Put, Patch, Delete (use for their respctive operations)
+    3) 
